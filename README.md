@@ -2,7 +2,7 @@
 
 **Model comparison, sampling-rate reduction, age-group false alarms and a real-phone pilot test**
 
-*[Bản tiếng Việt](README.vi.md)*
+**English** | [Tiếng Việt](docs/README.vi.md)
 
 > **Abstract.** Wearable fall detectors are only useful if they catch falls *and* rarely raise false alarms, otherwise users stop wearing them. Using the public SisFall dataset (38 participants, 4,505 recordings, 23 young adults and 15 older adults), I compare a fixed-threshold baseline, a Random Forest on orientation-independent features and two 1D-CNNs, evaluated with subject-wise 5-fold cross-validation. The Random Forest detects 97.6% of falls with a 1.1% false-alarm rate, about 20× fewer false alarms than the threshold baseline (21.1%), and keeps the same accuracy when the sampling rate is reduced 16-fold (200 Hz → 12.5 Hz), which matters for battery life. Contrary to my hypothesis, false alarms were not higher for older adults, even when comparing only activities performed by both groups. Finally, a pilot test on 19 recordings made with a hand-held phone (9 simulated falls onto a mattress, 10 daily activities) exposed a large gap: false alarms rose from 0.4–2.6% on SisFall to 3–5 out of 10 everyday activities, mostly when sitting down hard. Because the phone was held in the hand rather than worn at the waist, this gap mixes a change of device with a change of sensor position.
 

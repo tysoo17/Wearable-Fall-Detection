@@ -1,6 +1,6 @@
 # Phát hiện ngã cho người cao tuổi bằng cảm biến gia tốc đeo ở thắt lưng
 
-*[English version](../README.md)*
+**Tiếng Việt** | [English](../README.md)
 
 **Fall detection for older adults with a waist-worn accelerometer: model comparison, sampling-rate reduction and age-group false alarms**
 
