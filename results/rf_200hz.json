@@ -1,0 +1,33 @@
+{
+  "name": "rf_200hz",
+  "model": "rf",
+  "rate_hz": 200,
+  "input": "features",
+  "sensitivity": 0.9755283648498332,
+  "specificity": 0.9889176209826376,
+  "false_alarm_young": 0.012161415146489774,
+  "false_alarm_elderly": 0.008908685968819599,
+  "f1": 0.9793411501954216,
+  "top_false_alarm_activities": [
+    [
+      "D11",
+      16,
+      0.084
+    ],
+    [
+      "D14",
+      12,
+      0.063
+    ],
+    [
+      "D13",
+      1,
+      0.008
+    ],
+    [
+      "D06",
+      1,
+      0.008
+    ]
+  ]
+}

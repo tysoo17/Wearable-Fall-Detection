@@ -1,0 +1,104 @@
+{
+ "model": "rf_200hz",
+ "falls": 9,
+ "falls_detected": 7,
+ "adl": 10,
+ "false_alarms": 4,
+ "recordings": [
+  {
+   "file": "adl_lie_01.zip",
+   "truth": 0,
+   "p_fall": 0.667
+  },
+  {
+   "file": "adl_lie_02.zip",
+   "truth": 0,
+   "p_fall": 0.017
+  },
+  {
+   "file": "adl_lie_03.zip",
+   "truth": 0,
+   "p_fall": 0.993
+  },
+  {
+   "file": "adl_sit_01.zip",
+   "truth": 0,
+   "p_fall": 1.0
+  },
+  {
+   "file": "adl_sit_02.zip",
+   "truth": 0,
+   "p_fall": 0.15
+  },
+  {
+   "file": "adl_sit_03.zip",
+   "truth": 0,
+   "p_fall": 0.223
+  },
+  {
+   "file": "adl_walk_01.zip",
+   "truth": 0,
+   "p_fall": 0.127
+  },
+  {
+   "file": "adl_walk_02.zip",
+   "truth": 0,
+   "p_fall": 0.893
+  },
+  {
+   "file": "adl_walk_03.zip",
+   "truth": 0,
+   "p_fall": 0.0
+  },
+  {
+   "file": "adl_walk_04.zip",
+   "truth": 0,
+   "p_fall": 0.373
+  },
+  {
+   "file": "fall_01.zip",
+   "truth": 1,
+   "p_fall": 0.897
+  },
+  {
+   "file": "fall_02.zip",
+   "truth": 1,
+   "p_fall": 0.42
+  },
+  {
+   "file": "fall_03.zip",
+   "truth": 1,
+   "p_fall": 0.817
+  },
+  {
+   "file": "fall_05.zip",
+   "truth": 1,
+   "p_fall": 0.787
+  },
+  {
+   "file": "fall_06.zip",
+   "truth": 1,
+   "p_fall": 0.993
+  },
+  {
+   "file": "fall_07.zip",
+   "truth": 1,
+   "p_fall": 0.97
+  },
+  {
+   "file": "fall_08.zip",
+   "truth": 1,
+   "p_fall": 0.243
+  },
+  {
+   "file": "fall_09.zip",
+   "truth": 1,
+   "p_fall": 0.913
+  },
+  {
+   "file": "fall_10.zip",
+   "truth": 1,
+   "p_fall": 0.907
+  }
+ ]
+}

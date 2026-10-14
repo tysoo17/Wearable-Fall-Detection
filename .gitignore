@@ -1,0 +1,27 @@
+# Dataset
+sisfall/
+*.zip
+data/
+
+# Trained Models
+*.pkl
+*.pt
+
+# Python Environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# KNIME
+.metadata/
+Example Workflows/
+
+# Personal
+CV_Hy_Ngo_Harvard.*
+chuan-bi-phong-van.md
+
+# Windows' temp
+Thumbs.db
+desktop.ini
